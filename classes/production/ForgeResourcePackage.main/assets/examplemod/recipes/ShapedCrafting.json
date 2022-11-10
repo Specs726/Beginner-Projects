@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "yzy",
+    " y "
+  ],
+  "key": {
+    "x": {
+      "item": "examplemod:Ketchup Bottle",
+      "data": 0
+    },
+    "y": {
+      "item": "minecraft:stick",
+      "data": 0
+    },
+    "z": {
+      "item": "minecraft:glass"
+    }
+
+  },
+  "result": {
+    "item": "minecraft:diamond_pickaxe",
+    "data": 0,
+    "count": 3
+  }
+}

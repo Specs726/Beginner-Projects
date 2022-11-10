@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    " y ",
+    " y "
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:beacon",
+      "data": 0
+    },
+    "y": {
+      "item": "minecraft:obsidian",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "examplemod:Teleport Rod",
+    "data": 0,
+    "count": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stonebrick",
+      "data": 0
+
+    },
+    {
+      "item": "minecraft:stonebrick",
+      "data": 0
+
+    },
+    {
+      "item": "minecraft:stonebrick",
+      "data": 0
+
+    },
+    {
+      "item": "minecraft:stonebrick",
+      "data": 0
+
+    },
+    {
+      "item": "minecraft:stonebrick",
+      "data": 0
+
+    },
+    {
+      "item": "minecraft:stonebrick",
+      "data": 0
+
+    },
+    {
+      "item": "minecraft:stonebrick",
+      "data": 0
+
+    },
+    {
+      "item": "minecraft:stonebrick",
+      "data": 0
+
+    },
+    {
+      "item": "minecraft:stonebrick",
+      "data": 0
+
+    }
+    ],
+  "result":
+  {
+   "item": "examplemod:Medeivelcastle",
+   "data": 0,
+   "count": 36
+  }
+}
+
